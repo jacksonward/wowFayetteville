@@ -1,0 +1,4647 @@
+{
+	"displayFieldName": "PARCELID",
+	"fieldAliases": {
+		"OBJECTID": "OBJECTID",
+		"PARCELID": "PIN",
+		"OWNERNME1": "Owner",
+		"PSTLADDRESS": "Postal Address",
+		"PSTLCITY": "Postal City",
+		"PSTLSTATE": "Postal State",
+		"PSTLZIP5": "Postal Zip 5",
+		"ACRES": "Acres",
+		"URL": "URL",
+		"HOMESTEAD": "Homestead?"
+	},
+	"fields": [
+		{ "name": "OBJECTID", "type": "esriFieldTypeOID", "alias": "OBJECTID" },
+		{
+			"name": "PARCELID",
+			"type": "esriFieldTypeString",
+			"alias": "PIN",
+			"length": 30
+		},
+		{
+			"name": "OWNERNME1",
+			"type": "esriFieldTypeString",
+			"alias": "Owner",
+			"length": 255
+		},
+		{
+			"name": "PSTLADDRESS",
+			"type": "esriFieldTypeString",
+			"alias": "Postal Address",
+			"length": 255
+		},
+		{
+			"name": "PSTLCITY",
+			"type": "esriFieldTypeString",
+			"alias": "Postal City",
+			"length": 255
+		},
+		{
+			"name": "PSTLSTATE",
+			"type": "esriFieldTypeString",
+			"alias": "Postal State",
+			"length": 5
+		},
+		{
+			"name": "PSTLZIP5",
+			"type": "esriFieldTypeString",
+			"alias": "Postal Zip 5",
+			"length": 5
+		},
+		{ "name": "ACRES", "type": "esriFieldTypeDouble", "alias": "Acres" },
+		{
+			"name": "URL",
+			"type": "esriFieldTypeString",
+			"alias": "URL",
+			"length": 100
+		},
+		{
+			"name": "HOMESTEAD",
+			"type": "esriFieldTypeString",
+			"alias": "Homestead?",
+			"length": 3
+		}
+	],
+	"features": [
+		{
+			"attributes": {
+				"OBJECTID": 113441809,
+				"PARCELID": "830-38335-006",
+				"OWNERNME1": "LYMAN, CINDY & MICHAEL C SR",
+				"PSTLADDRESS": "1277 KELLY AVE",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 2.52119974,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128449",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441811,
+				"PARCELID": "830-38292-001",
+				"OWNERNME1": "HINSHAW, DAWN & LATHAM, MICHAEL P",
+				"PSTLADDRESS": "2464 S BARRINGTON RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 20.45970683,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128458",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441812,
+				"PARCELID": "805-20366-201",
+				"OWNERNME1": "ARKANSAS STATE HIGHWAY COMMISSION",
+				"PSTLADDRESS": "PO BOX 2261",
+				"PSTLCITY": "LITTLE ROCK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72203",
+				"ACRES": 8.95075211,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=118826",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441813,
+				"PARCELID": "830-38352-008",
+				"OWNERNME1": "GONZALEZ, JOSE FRANCISCO PEREZ",
+				"PSTLADDRESS": "1438 S PIANALTO RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 1.16690039,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128465",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441816,
+				"PARCELID": "001-10456-003",
+				"OWNERNME1": "SMITH, BILLY TANDO ",
+				"PSTLADDRESS": "PO BOX 77",
+				"PSTLCITY": "COMBS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72721",
+				"ACRES": 19.76259734,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=121955",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441817,
+				"PARCELID": "001-14328-002",
+				"OWNERNME1": "GUERIN, JACOB A & CHRISTINA S",
+				"PSTLADDRESS": "1677 N HUNTER DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 4.78826066,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128485",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441818,
+				"PARCELID": "001-16965-000",
+				"OWNERNME1": "MAYFIELD FAMILY REVOCABLE TRUST",
+				"PSTLADDRESS": "C/O FRANK M & JANA FROST MAYFIELD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 14.34640222,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23746",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441819,
+				"PARCELID": "092-00010-000",
+				"OWNERNME1": "YATES, ALEC & SUE",
+				"PSTLADDRESS": "2115 SUNSHINE RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 0.72243041,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92532",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441820,
+				"PARCELID": "001-09998-000",
+				"OWNERNME1": "LONGLEY, CARL L & CONNIE L",
+				"PSTLADDRESS": "14925 BALL RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 77.82123263,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14449",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441821,
+				"PARCELID": "830-38309-000",
+				"OWNERNME1": "WAGNER FAMILY LIMITED PARTNERSHIP",
+				"PSTLADDRESS": "2087 S BARRINGTON RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 1.986458,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=94438",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441822,
+				"PARCELID": "830-38352-000",
+				"OWNERNME1": "GONZALEZ, SERGIO PEREZ",
+				"PSTLADDRESS": "1438 S PINALTO RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 2.53214045,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=94481",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441823,
+				"PARCELID": "001-14328-000",
+				"OWNERNME1": "GREGG, LEM W & ELSIE L",
+				"PSTLADDRESS": "16498 HICKS RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 32.80736457,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=20733",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441824,
+				"PARCELID": "001-16761-000",
+				"OWNERNME1": "LYMAN, J D & AMBOLINE REVOCABLE LIVING TRUST",
+				"PSTLADDRESS": "4512 W WEIR RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 17.6324218,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23407",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441825,
+				"PARCELID": "001-11311-009",
+				"OWNERNME1": "AIROLA, ERIC & DENISE REVOCABLE TRUST",
+				"PSTLADDRESS": "1619 E WINFIELD DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 8.596482,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128435",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441826,
+				"PARCELID": "001-14062-001",
+				"OWNERNME1": "DRIVER, ADAM G",
+				"PSTLADDRESS": "PO BOX 174",
+				"PSTLCITY": "GOSHEN",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72735",
+				"ACRES": 18.77052931,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=120021",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441828,
+				"PARCELID": "001-12635-004",
+				"OWNERNME1": "KESSLER ROAD DEVELOPMENT LLC",
+				"PSTLADDRESS": "1207 S OLD MISSOURI RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 9.02913152,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=120881",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441829,
+				"PARCELID": "765-14877-012",
+				"OWNERNME1": "CF KL ASSETS 2019-2 LLC",
+				"PSTLADDRESS": "87 N MICHIGAN AVE SUITE 2118",
+				"PSTLCITY": "CHICAGO",
+				"PSTLSTATE": "IL",
+				"PSTLZIP5": "60611",
+				"ACRES": 1.45218133,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128467",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441830,
+				"PARCELID": "815-29503-001",
+				"OWNERNME1": "CITY OF SPRINGDALE",
+				"PSTLADDRESS": "201 N SPRING ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 1.95385878,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=118088",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441833,
+				"PARCELID": "001-10216-005",
+				"OWNERNME1": "SANDERS, STUART H & SARAH B",
+				"PSTLADDRESS": "19592 MT T-BO LN",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 25.05142052,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=126593",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441834,
+				"PARCELID": "001-11311-000",
+				"OWNERNME1": "KESSLER ROAD DEVELOPMENT LLC",
+				"PSTLADDRESS": "1207 S OLD MISSOURI RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 17.90761533,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=16374",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441835,
+				"PARCELID": "092-00016-000",
+				"OWNERNME1": "KLOTZBUECHER, DAVID RICHARD & COX, STORMY B",
+				"PSTLADDRESS": "5404 W YELLOW BRICK RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 2.14079311,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92538",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441836,
+				"PARCELID": "001-12865-004",
+				"OWNERNME1": "LEE, PHILLIP & JOY MARIE BELL",
+				"PSTLADDRESS": "399 ORCHARD CREEK DR",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 1.11146314,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128448",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441837,
+				"PARCELID": "001-10007-000",
+				"OWNERNME1": "RICO, SALVADOR & MARIA ",
+				"PSTLADDRESS": "21497 FERN RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 5.50838247,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14469",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441838,
+				"PARCELID": "830-38302-000",
+				"OWNERNME1": "WORKMAN, DANE & MICHELLE JOINT REVOCABLE TRUST ",
+				"PSTLADDRESS": "PO BOX 6010",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72766",
+				"ACRES": 7.7538473,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=94431",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441839,
+				"PARCELID": "001-15035-002",
+				"OWNERNME1": "BILLINGSLEY, GABRIELLE ",
+				"PSTLADDRESS": "16720 RANCHERO ROAD ",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 2.00781006,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128491",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441840,
+				"PARCELID": "815-29467-001",
+				"OWNERNME1": "CASEY'S MARKETING COMPANY",
+				"PSTLADDRESS": "PO BOX 3001",
+				"PSTLCITY": "ANKENY",
+				"PSTLSTATE": "IA",
+				"PSTLZIP5": "50021",
+				"ACRES": 1.91680214,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=118671",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441841,
+				"PARCELID": "001-12338-011",
+				"OWNERNME1": "PAIR, GREGORY D II & JAMIE",
+				"PSTLADDRESS": "437 N DURANGO PL",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 2.11039494,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=126806",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441842,
+				"PARCELID": "765-05471-004",
+				"OWNERNME1": "CITY OF FAYETTEVILLE",
+				"PSTLADDRESS": "113 W MOUNTAIN ST",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.0028556,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128495",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441843,
+				"PARCELID": "001-06326-000",
+				"OWNERNME1": "DOKE, CHARLENE",
+				"PSTLADDRESS": "291 LAKE SEQUOYAH DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 43.3692192,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=8829",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441844,
+				"PARCELID": "177-00006-000",
+				"OWNERNME1": "WALKER, DONALD E & SHEROLL J",
+				"PSTLADDRESS": "3900 W CEDAR RIDGE LN",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 2.16404631,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=96965",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441845,
+				"PARCELID": "815-38498-000",
+				"OWNERNME1": "CHESTER HEIGHTS LLC",
+				"PSTLADDRESS": "4902 S THOMPSON ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 7.83365698,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109009",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441846,
+				"PARCELID": "001-12338-010",
+				"OWNERNME1": "PIERCE, ROBERT & JO ANN",
+				"PSTLADDRESS": "531 CAPTAIN STOCKTON ST",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 5.16774295,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=126686",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441849,
+				"PARCELID": "001-16960-001",
+				"OWNERNME1": "PRUITT, ROBERT T REVOCABLE TRUST",
+				"PSTLADDRESS": "3368 GRAY DR",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 14.33530962,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23737",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441850,
+				"PARCELID": "001-17540-002",
+				"OWNERNME1": "GARREN, CORY S & KIRSTYN D",
+				"PSTLADDRESS": "6338 W WHEELER RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 0.31009194,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=24775",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441851,
+				"PARCELID": "785-18155-200",
+				"OWNERNME1": "RAAH LLC",
+				"PSTLADDRESS": "4325 LEGACY DR",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 1.30659508,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128493",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441853,
+				"PARCELID": "830-38310-000",
+				"OWNERNME1": "HINSHAW, ELIZABETH B",
+				"PSTLADDRESS": "2150 S Barrington Rd",
+				"PSTLCITY": "Springdale",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 53.69536909,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=94439",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441854,
+				"PARCELID": "001-06334-001",
+				"OWNERNME1": "HANNA, BURTON DOUGAN REV",
+				"PSTLADDRESS": "P O BOX 3647",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72702",
+				"ACRES": 12.14699276,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=8841",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441855,
+				"PARCELID": "760-01333-000",
+				"OWNERNME1": "KSDA INC",
+				"PSTLADDRESS": "PO BOX 605",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 0.24526055,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=34606",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441856,
+				"PARCELID": "830-37615-000",
+				"OWNERNME1": "PIAZZA FAMILY IRREVOCABLE TRUST",
+				"PSTLADDRESS": "626 PIAZZA RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 30.94012632,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=84902",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441857,
+				"PARCELID": "001-05774-003",
+				"OWNERNME1": "BRANNAN, DEAN (AKA) WILLIAM DEAN & TAMMY",
+				"PSTLADDRESS": "21001 SPRINGSTON FORD RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 1.15305776,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=7984",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441858,
+				"PARCELID": "001-15034-001",
+				"OWNERNME1": "FLOYD, DENNIS N & REBECCA L",
+				"PSTLADDRESS": "19010 SILVER SPUR RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 10.36248488,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21763",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441859,
+				"PARCELID": "770-17384-105",
+				"OWNERNME1": "MCILROY, CHARLES & ERIN",
+				"PSTLADDRESS": "506 SHADY ACRES LN",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 1.99992899,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128399",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441862,
+				"PARCELID": "001-16964-000",
+				"OWNERNME1": "RICHARDSON, MAHLON LEE & MARSHA",
+				"PSTLADDRESS": "3494 WILDCAT CREEK BLVD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 21.04641668,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23743",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441863,
+				"PARCELID": "770-17393-000",
+				"OWNERNME1": "MCCRAW, ANNA JANELLE",
+				"PSTLADDRESS": "11073 CLUB HOUSE PKWY #4",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 11.40601099,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=60446",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441865,
+				"PARCELID": "001-06327-000",
+				"OWNERNME1": "MCGUIRE, MARGUERITE (SURVIVOR)",
+				"PSTLADDRESS": "1300 S JACKSON",
+				"PSTLCITY": "AMARILLO",
+				"PSTLSTATE": "TX",
+				"PSTLZIP5": "79101",
+				"ACRES": 56.5632397,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=8830",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441866,
+				"PARCELID": "805-20366-101",
+				"OWNERNME1": "THE RANCH STORAGE LLC; HUBAR INC",
+				"PSTLADDRESS": "14610 GREASY VALLEY RD",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 5.25251399,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128464",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441867,
+				"PARCELID": "830-38352-001",
+				"OWNERNME1": "SALDIERNA, MAGDIEL ESPINOZA & SANCHEZ, FLOR ESTELA",
+				"PSTLADDRESS": "2047 S PIANALTO RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 5.85182764,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=121484",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441869,
+				"PARCELID": "001-14316-000",
+				"OWNERNME1": "GREGG, LEM W & ELSIE L",
+				"PSTLADDRESS": "16498 HICKS RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 9.99121618,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=20715",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441870,
+				"PARCELID": "760-03076-000",
+				"OWNERNME1": "SILVA PROPERTIES LLC",
+				"PSTLADDRESS": "12198 LITTLE ELM RD",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": null,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109770",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441871,
+				"PARCELID": "805-19402-000",
+				"OWNERNME1": "MCCARTY, J & S FAMILY REVOCABLE LIVING TRUST",
+				"PSTLADDRESS": "10198 W JETER RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.23123286,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=64530",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441872,
+				"PARCELID": "785-18136-001",
+				"OWNERNME1": "RAAH LLC",
+				"PSTLADDRESS": "4325 LEGACY DR",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 5.25483697,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=90389",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441873,
+				"PARCELID": "001-06167-001",
+				"OWNERNME1": "PASCHAL, NICHOLAS C REVOCABLE TRUST",
+				"PSTLADDRESS": "P O BOX 93",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 105.91810519,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=8565",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441874,
+				"PARCELID": "001-08020-000",
+				"OWNERNME1": "THE RANCH STORAGE LLC",
+				"PSTLADDRESS": "438 DITMARS RD",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 16.1910144,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=11403",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441876,
+				"PARCELID": "001-10240-000",
+				"OWNERNME1": "LEDBETTER, RICK",
+				"PSTLADDRESS": "4129 N OLD WIRE RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 74.01171078,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14806",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441877,
+				"PARCELID": "001-16764-000",
+				"OWNERNME1": "HINTON, CHAD W & SUSAN L",
+				"PSTLADDRESS": "3280 N WAGNER RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 2.88302456,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23410",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441878,
+				"PARCELID": "001-16765-000",
+				"OWNERNME1": "HENSON, JERRY W & LINDA KAREN",
+				"PSTLADDRESS": "3382 N WAGNER RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 2.76513801,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23411",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441879,
+				"PARCELID": "001-17438-003",
+				"OWNERNME1": "ZELENKO, GREGG A",
+				"PSTLADDRESS": "14890 SAVOY RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 2.2278364,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=119875",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441880,
+				"PARCELID": "001-12738-004",
+				"OWNERNME1": "CLARK, TRACY & DENA MICHAELE",
+				"PSTLADDRESS": "15224 DRAPER RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 15.991714,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128431",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441882,
+				"PARCELID": "001-05771-001",
+				"OWNERNME1": "SRADER, CHARLES E",
+				"PSTLADDRESS": "21045 SPRINGSTON FORD RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 2.52009412,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=7976",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441883,
+				"PARCELID": "765-10087-001",
+				"OWNERNME1": "CITY OF FAYETTEVILLE",
+				"PSTLADDRESS": "113 W MOUNTAIN ST",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.0116575,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128450",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441884,
+				"PARCELID": "001-15012-003",
+				"OWNERNME1": "NALL, MASON W",
+				"PSTLADDRESS": "4466 MURPHEYS ROCKY RIDGE",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 7.0725357,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=119496",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441885,
+				"PARCELID": "001-17438-000",
+				"OWNERNME1": "LUTHER, FRANK RAY",
+				"PSTLADDRESS": "15000 SAVOY RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 113.25657494,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=24616",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441886,
+				"PARCELID": "830-38339-000",
+				"OWNERNME1": "ROUSE, LOISE M TRUST",
+				"PSTLADDRESS": "17848 WHEELER RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 10.89895747,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=94468",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441887,
+				"PARCELID": "001-07943-003",
+				"OWNERNME1": "HAWLEY, MARCUS W",
+				"PSTLADDRESS": "203 E BUSH ST",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 4.70247418,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128182",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441888,
+				"PARCELID": "760-01911-900",
+				"OWNERNME1": "FARMINGTON COMMERCIAL LLC",
+				"PSTLADDRESS": "12771 TYLER RD",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 62.74106669,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=106163",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441889,
+				"PARCELID": "001-14933-002",
+				"OWNERNME1": "PARKER, CARY LEE & JOY DAWN",
+				"PSTLADDRESS": "19974 SHERRY RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 4.05101146,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21625",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441890,
+				"PARCELID": "001-10908-000",
+				"OWNERNME1": "PRICE, JEFFREY DEAN",
+				"PSTLADDRESS": "2140 N CENTER ST",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 8.56397709,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=15789",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441891,
+				"PARCELID": "001-05749-003",
+				"OWNERNME1": "DYKE, PATRICIA",
+				"PSTLADDRESS": "21292 KIRKSEY RD ",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 4.82145378,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=7936",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441892,
+				"PARCELID": "001-10645-000",
+				"OWNERNME1": "MOTLEY, SHARON LYNN REVOCABLE TRUST",
+				"PSTLADDRESS": "4229 E WYMAN RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 10.01173464,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=15406",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441893,
+				"PARCELID": "001-13123-004",
+				"OWNERNME1": "ASHLEY, MICHAEL J & TRACIE A",
+				"PSTLADDRESS": "11737 DOC HALL RD ",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 2.46266132,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92080",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441894,
+				"PARCELID": "001-07817-007",
+				"OWNERNME1": "CINGOLANI, VICKY L",
+				"PSTLADDRESS": "10328 NW JETER RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.73519057,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128429",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441895,
+				"PARCELID": "177-00005-000",
+				"OWNERNME1": "TOMLINSON, MARY ELLEN; TOMLINSON, MELISSA ANN",
+				"PSTLADDRESS": "3717 N DOGWOOD CANYON LOOP",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 1.84543181,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=96964",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441896,
+				"PARCELID": "001-16766-000",
+				"OWNERNME1": "SPIGNER, PHYLLIS K; LACKEY, VOL DOUGLAS",
+				"PSTLADDRESS": "3248 N WAGNER RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 2.93646153,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23413",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441897,
+				"PARCELID": "001-12314-000",
+				"OWNERNME1": "SILVA PROPERTIES LLC",
+				"PSTLADDRESS": "12198 LITTLE ELM RD",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 10.7450851,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=17958",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441898,
+				"PARCELID": "835-38717-001",
+				"OWNERNME1": "KOPP, STEVE; BUNTON, SARAH",
+				"PSTLADDRESS": "588 RED HAWK RD",
+				"PSTLCITY": "WEST FORK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72774",
+				"ACRES": 6.84852835,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=114237",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441900,
+				"PARCELID": "001-17550-000",
+				"OWNERNME1": "FLORES, MARIANO",
+				"PSTLADDRESS": "2994 N DOUBLE SPRINGS RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 1.04259804,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=24790",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441901,
+				"PARCELID": "001-17562-000",
+				"OWNERNME1": "LITTRELL, PAUL L ",
+				"PSTLADDRESS": "10725 N GARLAND MCKEE RD ",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 1.01619156,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=24805",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441902,
+				"PARCELID": "815-22100-000",
+				"OWNERNME1": "BLACK FAMILY TRUST",
+				"PSTLADDRESS": "PO  BOX 8172",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72766",
+				"ACRES": 0.35807597,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=67767",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441903,
+				"PARCELID": "332-01510-000",
+				"OWNERNME1": "BOURKE, PATRICK M & LISA K",
+				"PSTLADDRESS": "4719 W MAYES DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 1.38757281,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=29465",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441904,
+				"PARCELID": "001-16757-000",
+				"OWNERNME1": "TYLER, DOLORES F REVOCABLE TRUST",
+				"PSTLADDRESS": "4511 NEW BRIDGE RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 11.90974929,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23402",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441905,
+				"PARCELID": "760-01911-905",
+				"OWNERNME1": "RIVERWOOD HOMES LLC",
+				"PSTLADDRESS": "3420 N PLAINVIEW AVE",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 24.88416058,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128503",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441906,
+				"PARCELID": "835-38388-001",
+				"OWNERNME1": "BLOCK, BRANDON CORY & HICKS, ARWYN  GABRIELLA",
+				"PSTLADDRESS": "887 STOCKBURGER AVE",
+				"PSTLCITY": "WEST FORK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72774",
+				"ACRES": 3.67405138,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=122883",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441909,
+				"PARCELID": "830-38335-000",
+				"OWNERNME1": "BIXLER, SHIRLEY R",
+				"PSTLADDRESS": "1764 S PIANALTO RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 23.81502255,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=94464",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441911,
+				"PARCELID": "001-10008-000",
+				"OWNERNME1": "PETRINI, ANTHONY & BARBARA A",
+				"PSTLADDRESS": "21521 HAMMON RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 18.26991716,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14470",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441912,
+				"PARCELID": "830-38292-000",
+				"OWNERNME1": "HINSHAW, ELIZABETH B TRUST",
+				"PSTLADDRESS": "2150 BARRINGTON RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 20.31103395,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=94421",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441913,
+				"PARCELID": "001-12635-000",
+				"OWNERNME1": "KESSLER ROAD DEVELOPMENT LLC",
+				"PSTLADDRESS": "1207 S OLD MISSOURI RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 10.28495979,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=18485",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441914,
+				"PARCELID": "760-01331-000",
+				"OWNERNME1": "LOGUE, JAMES HASKELL & BERTHA",
+				"PSTLADDRESS": "88 N DOUBLE SPRINGS RD",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 0.23498461,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=34604",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441915,
+				"PARCELID": "001-15035-000",
+				"OWNERNME1": "SMITH, SHANE",
+				"PSTLADDRESS": "19114 SILVER SPUR RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 5.10426638,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21764",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441916,
+				"PARCELID": "785-18154-001",
+				"OWNERNME1": "BAYYARI 2020 IRREVOCABLE TRUST",
+				"PSTLADDRESS": "C/O  SARAH R BAYYARI",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72766",
+				"ACRES": 7.6597408,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=62150",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441918,
+				"PARCELID": "815-30893-002",
+				"OWNERNME1": "CITY OF SPRINGDALE",
+				"PSTLADDRESS": "201 N SPRING ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 0.3586058,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128424",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441919,
+				"PARCELID": "001-10214-001",
+				"OWNERNME1": "VENETTE, CHAD & KRISHTAL-VENETTE, YANA",
+				"PSTLADDRESS": "17985 VILLAGE ESTATES DR",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 17.23398738,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=103361",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441920,
+				"PARCELID": "092-00014-000",
+				"OWNERNME1": "AIRWAYS FREIGHT CORP",
+				"PSTLADDRESS": "PO BOX 1888",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72702",
+				"ACRES": 1.4867591,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92536",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441921,
+				"PARCELID": "001-14058-000",
+				"OWNERNME1": "AUSTIN, J C",
+				"PSTLADDRESS": "21785 CHRISTMAN RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 2.48218401,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=20620",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441922,
+				"PARCELID": "001-10012-000",
+				"OWNERNME1": "GOBEL, MARVIN C & PATSY LEIGH",
+				"PSTLADDRESS": "21237 RICHLAND VIEW RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 33.27787604,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14477",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441923,
+				"PARCELID": "001-12635-007",
+				"OWNERNME1": "RICH REACTIVE LLC",
+				"PSTLADDRESS": "1201 W LEROY POND DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 8.35868838,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128460",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441924,
+				"PARCELID": "001-10240-001",
+				"OWNERNME1": "JACKSON, DANA & JAMES",
+				"PSTLADDRESS": "328 MADISON COUNTY 6003",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 5.07117818,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128471",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441925,
+				"PARCELID": "815-28643-010",
+				"OWNERNME1": "ORIOLE STREET LLC",
+				"PSTLADDRESS": "1207 S OLD MISSOURI RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 1.35644839,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=74802",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441927,
+				"PARCELID": "815-22100-002",
+				"OWNERNME1": "COLBURN TRUST",
+				"PSTLADDRESS": "4407 BOGEY DR",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 0.04112633,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128440",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441929,
+				"PARCELID": "001-11583-011",
+				"OWNERNME1": "SCRIBNER, JOSEPH E & TAMMY L",
+				"PSTLADDRESS": "PO BOX 582",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 3.98764281,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128427",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441930,
+				"PARCELID": "177-00003-000",
+				"OWNERNME1": "MAULDIN, MICHAEL V REVOCABLE LIVNG TRUST;",
+				"PSTLADDRESS": "3917 W CEDAR RIDGE LN",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 1.70808414,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=96962",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441931,
+				"PARCELID": "001-06073-003",
+				"OWNERNME1": "WILLIAMS, DEBRA SUE",
+				"PSTLADDRESS": "103 COUNTY RD 464",
+				"PSTLCITY": "JONESBORO",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72404",
+				"ACRES": 3.17704788,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128477",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441932,
+				"PARCELID": "775-18044-100",
+				"OWNERNME1": "BEREAN PROPERTIES LLC; VANHOOK, TRUMAN WAYNE",
+				"PSTLADDRESS": "218 PINKLY RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 16.41067589,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=121768",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441933,
+				"PARCELID": "835-38388-000",
+				"OWNERNME1": "LINDSEY, BARBARA H",
+				"PSTLADDRESS": "PO BOX 100",
+				"PSTLCITY": "WEST FORK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72774",
+				"ACRES": 0.25591991,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=86265",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441934,
+				"PARCELID": "785-18329-000",
+				"OWNERNME1": "STOCKALPER, ROBERT F SR & ",
+				"PSTLADDRESS": "2231 S BARRINGTON RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 0.220416,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=62346",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441935,
+				"PARCELID": "001-16972-000",
+				"OWNERNME1": "NEWMAN, CURT ",
+				"PSTLADDRESS": "PO BOX 34 ",
+				"PSTLCITY": "TONTITOWN",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72770",
+				"ACRES": 0.81869893,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23763",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441936,
+				"PARCELID": "001-09999-001",
+				"OWNERNME1": "LONGLEY, CARL L & CONNIE L",
+				"PSTLADDRESS": "14925 BALL RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 10.67845631,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14455",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441938,
+				"PARCELID": "805-20366-100",
+				"OWNERNME1": "THE RANCH STORAGE LLC",
+				"PSTLADDRESS": "438 DITMARS RD",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 13.2405147,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=118430",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441940,
+				"PARCELID": "815-28643-000",
+				"OWNERNME1": "ORIOLE STREET LLC",
+				"PSTLADDRESS": "1207 S OLD MISSOURI RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 0.93792305,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=74801",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441941,
+				"PARCELID": "785-18317-000",
+				"OWNERNME1": "CEBUHAR LLC",
+				"PSTLADDRESS": "2425 OAK VIEW DR",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 0.17534907,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=62334",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441943,
+				"PARCELID": "001-07817-002",
+				"OWNERNME1": "PHILLIPS, THOMAS A ",
+				"PSTLADDRESS": "10376 W JETER RD ",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 5.01242474,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=11113",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441947,
+				"PARCELID": "001-17464-000",
+				"OWNERNME1": "TURNER, MARTIN L & LISA M",
+				"PSTLADDRESS": "14640 SAVOY RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 56.8312629,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=24658",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441948,
+				"PARCELID": "001-07194-002",
+				"OWNERNME1": "BEALS, LARRY & MARY MCKEE",
+				"PSTLADDRESS": "526 ELKINS ST",
+				"PSTLCITY": "WEST FORK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72774",
+				"ACRES": 2.09914123,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=118796",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441949,
+				"PARCELID": "001-10463-000",
+				"OWNERNME1": "GILLEECE, ERIN J",
+				"PSTLADDRESS": "14411 HUMMINGBIRD RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.58905554,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=15145",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441950,
+				"PARCELID": "001-13713-000",
+				"OWNERNME1": "STAMPS, LOU ANN",
+				"PSTLADDRESS": "20314 BLUE SPRINGS RD ",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 15.82202359,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=20109",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441951,
+				"PARCELID": "UNKNOWN022",
+				"OWNERNME1": "",
+				"PSTLADDRESS": "",
+				"PSTLCITY": "",
+				"PSTLSTATE": "",
+				"PSTLZIP5": "",
+				"ACRES": 4.24185527,
+				"URL": "N/A",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441952,
+				"PARCELID": "UNKNOWN172",
+				"OWNERNME1": "",
+				"PSTLADDRESS": "",
+				"PSTLCITY": "",
+				"PSTLSTATE": "",
+				"PSTLZIP5": "",
+				"ACRES": 1.62657213,
+				"URL": "N/A",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441953,
+				"PARCELID": "UNKNOWN174",
+				"OWNERNME1": "",
+				"PSTLADDRESS": "",
+				"PSTLCITY": "",
+				"PSTLSTATE": "",
+				"PSTLZIP5": "",
+				"ACRES": 0.01476503,
+				"URL": "N/A",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441954,
+				"PARCELID": "001-14313-001",
+				"OWNERNME1": "GEURIN, JACOB A & CHRISTINA S",
+				"PSTLADDRESS": "1677 N HUNTER DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 51.03601661,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=120426",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441955,
+				"PARCELID": "815-29466-000",
+				"OWNERNME1": "KC LEASING LLC",
+				"PSTLADDRESS": "1915 CONSTITUTION AVE",
+				"PSTLCITY": "PRATTVILLE",
+				"PSTLSTATE": "AL",
+				"PSTLZIP5": "36066",
+				"ACRES": 0.68383855,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=76835",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441956,
+				"PARCELID": "760-03076-001",
+				"OWNERNME1": "PRATER, DARRELL & PATRICIA",
+				"PSTLADDRESS": "11537 ASHLEY RD",
+				"PSTLCITY": "LINCOLN",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72744",
+				"ACRES": null,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128499",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441957,
+				"PARCELID": "815-30506-000",
+				"OWNERNME1": "LAZENBY, BRENDA J",
+				"PSTLADDRESS": "3018 E ROBINSON AVE ",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 3.33011088,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=79305",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441958,
+				"PARCELID": "815-28644-000",
+				"OWNERNME1": "SQUIRES, ROBERT W & SHERRY",
+				"PSTLADDRESS": "1600 S OLD MISSOURI RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 5.11215399,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=74803",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441960,
+				"PARCELID": "001-05777-002",
+				"OWNERNME1": "GABBARD, TIMOTHY CLIFTON & DONNA MAY",
+				"PSTLADDRESS": "10217 VENICE RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 1.73357078,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128455",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441962,
+				"PARCELID": "815-34483-001",
+				"OWNERNME1": "HASH, BARBARA JOAN IRREVOBLE TRUST",
+				"PSTLADDRESS": "11383 KELLY LN",
+				"PSTLCITY": "LOWELL",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72745",
+				"ACRES": 3.08878278,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128504",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441963,
+				"PARCELID": "785-18153-004",
+				"OWNERNME1": "EVERYTHING MARY INVESTMENTS LLC",
+				"PSTLADDRESS": "2211 HAWKS LANDING",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 1.04369742,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=101500",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441964,
+				"PARCELID": "785-19305-001",
+				"OWNERNME1": "WWW JOHNSON SOUTH LLC",
+				"PSTLADDRESS": "220 N KNOXVILLE",
+				"PSTLCITY": "RUSSELLVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72801",
+				"ACRES": 4.03738365,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128509",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441966,
+				"PARCELID": "001-14325-000",
+				"OWNERNME1": "EPES, JANNETTE; MILLS, JUSTIN CLARKE",
+				"PSTLADDRESS": "1801 SE CLARK ST",
+				"PSTLCITY": "BENTONVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72712",
+				"ACRES": 61.16170221,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=20730",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441967,
+				"PARCELID": "815-33688-000",
+				"OWNERNME1": "SEWELL, MARK ANDREW & REGINA KAY",
+				"PSTLADDRESS": "2060 ORCHARD ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 1.06786918,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=82692",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441968,
+				"PARCELID": "815-30857-090",
+				"OWNERNME1": "GRAHAM NWA PROPERTIES I LLLP;",
+				"PSTLADDRESS": "3744 S 48TH  ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 10.46767631,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=79776",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441971,
+				"PARCELID": "805-20346-000",
+				"OWNERNME1": "BARTHOLOMEW, BILLY JOE REV TRUST",
+				"PSTLADDRESS": "1000 E BUTLER ST",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 2.0964966,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=65613",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441972,
+				"PARCELID": "001-14061-000",
+				"OWNERNME1": "BROWN, STEVE T",
+				"PSTLADDRESS": "624 E JOHNSON AVE",
+				"PSTLCITY": "CAVE SPRINGS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72718",
+				"ACRES": 2.06482593,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=20626",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441973,
+				"PARCELID": "765-14847-000",
+				"OWNERNME1": "ARKANSAS STATE HIGHWAY COMM",
+				"PSTLADDRESS": "RT 11 BOX C",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 0.23678944,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=51308",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441974,
+				"PARCELID": "001-06073-004",
+				"OWNERNME1": "COLEMAN, DONALD W",
+				"PSTLADDRESS": "1902 ORIOLE ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 3.59697345,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128478",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441976,
+				"PARCELID": "815-28643-011",
+				"OWNERNME1": "TALMOORE TOWNHOMES LLC",
+				"PSTLADDRESS": "PO BOX 773",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72765",
+				"ACRES": 1.45621954,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128507",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441978,
+				"PARCELID": "001-15368-000",
+				"OWNERNME1": "PARDUE, JOHN D & SHIRLEY A",
+				"PSTLADDRESS": "18287 BEAV-O-RAMA RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 94.67500222,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=22249",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441980,
+				"PARCELID": "805-20347-007",
+				"OWNERNME1": "BARTHOLOMEW IRREVOCABLE FAMILY TRUST",
+				"PSTLADDRESS": "1000 E BUTLER RD",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 4.14537114,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=123446",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441981,
+				"PARCELID": "805-20347-010",
+				"OWNERNME1": "MATHEWS MCPROPERTIES LLC",
+				"PSTLADDRESS": "PO BOX 1366",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72765",
+				"ACRES": 2.05615236,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128534",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441984,
+				"PARCELID": "001-12314-001",
+				"OWNERNME1": "REYNAGA, DOMINGO; REYNAGA, ",
+				"PSTLADDRESS": "12587 JIMMY DEVAULT",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 1.99853354,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=121084",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441985,
+				"PARCELID": "815-30492-001",
+				"OWNERNME1": "ARKANSAS STATE HIGHWAY COMM",
+				"PSTLADDRESS": "PO BOX 2261",
+				"PSTLCITY": "LITTLE ROCK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72203",
+				"ACRES": 0.09498641,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=79289",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441986,
+				"PARCELID": "001-10148-001",
+				"OWNERNME1": "TARPEIN, BEJAMIN C & SAMANTHA",
+				"PSTLADDRESS": "21979 E HWY 74",
+				"PSTLCITY": "WESLEY",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72773",
+				"ACRES": 2.05054029,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=115575",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441988,
+				"PARCELID": "770-17393-007",
+				"OWNERNME1": "MCCRAW, RONALD L ",
+				"PSTLADDRESS": "PO BOX 176 ",
+				"PSTLCITY": "GOSHEN",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72735",
+				"ACRES": 4.36324598,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128437",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441989,
+				"PARCELID": "001-05774-005",
+				"OWNERNME1": "WHITE, ZACHARY & STEPHANIE",
+				"PSTLADDRESS": "20945 SPRINGSTON FORD RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 1.46186755,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128453",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441990,
+				"PARCELID": "805-20366-400",
+				"OWNERNME1": "RIEFF, LESLIE; RIEFF, BARBARA",
+				"PSTLADDRESS": "2704 W AMOUR DR",
+				"PSTLCITY": "ROGERS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72758",
+				"ACRES": 39.06875737,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=118433",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441992,
+				"PARCELID": "001-14332-001",
+				"OWNERNME1": "SPIRE, DUANE EVERETT",
+				"PSTLADDRESS": "PO Box 631",
+				"PSTLCITY": "Valley Center",
+				"PSTLSTATE": "CA",
+				"PSTLZIP5": "92082",
+				"ACRES": 19.04720512,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=20738",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441993,
+				"PARCELID": "815-29465-001",
+				"OWNERNME1": "CITY OF SPRINGDALE",
+				"PSTLADDRESS": "201 N SPRING ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 2.65484915,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128492",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441994,
+				"PARCELID": "760-03089-000",
+				"OWNERNME1": "BOWEN, ALTON & NELLIE",
+				"PSTLADDRESS": "12535 BETHEL BLACKTOP RD",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 5.05295065,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109784",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441997,
+				"PARCELID": "001-10153-000",
+				"OWNERNME1": "STOPHLET FAMILY TRUST",
+				"PSTLADDRESS": "1565 LAFITE LN",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 78.60524477,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14665",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441998,
+				"PARCELID": "805-20248-001",
+				"OWNERNME1": "P G THREE AMIGOS LLC",
+				"PSTLADDRESS": "PO BOX 1287",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 3.00115448,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=122280",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113441999,
+				"PARCELID": "815-36188-601",
+				"OWNERNME1": "CITY OF SPRINGDALE",
+				"PSTLADDRESS": "201 N SPRING ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 3.63069608,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128536",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442000,
+				"PARCELID": "815-39724-000",
+				"OWNERNME1": "HENDRICKS, ALEXIS P",
+				"PSTLADDRESS": "3773 LINWOOD ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 0.1200747,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=127162",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442001,
+				"PARCELID": "001-05777-000",
+				"OWNERNME1": "GABBARD, TIMOTHY CLIFTON & DONNA MAY",
+				"PSTLADDRESS": "10217 VENICE RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 48.07481873,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=7988",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442003,
+				"PARCELID": "001-13711-003",
+				"OWNERNME1": "HALL, CHRISTOPHER D & PATTY O",
+				"PSTLADDRESS": "20385 BLUE SPRINGS RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 4.95625837,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=91260",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442004,
+				"PARCELID": "815-34483-000",
+				"OWNERNME1": "SUNRISE POINT LLC",
+				"PSTLADDRESS": "1814 BALMORAL AVE",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 1.55733559,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=83500",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442005,
+				"PARCELID": "815-28642-000",
+				"OWNERNME1": "ORIOLE STREET LLC",
+				"PSTLADDRESS": "1207 S OLD MISSOURI RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 0.41361466,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=74800",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442007,
+				"PARCELID": "001-10033-001",
+				"OWNERNME1": "GOBEL, MARVIN C & PATSY LEIGH",
+				"PSTLADDRESS": "21237 RICHLAND VIEW RD",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 19.65226505,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14510",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442008,
+				"PARCELID": "177-00005-001",
+				"OWNERNME1": "NOHL, BRENT & JESSICA",
+				"PSTLADDRESS": "385 N POWDERHORN DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 1.17369247,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128463",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442009,
+				"PARCELID": "001-16767-000",
+				"OWNERNME1": "LACKEY, JIMMY & GLORIA",
+				"PSTLADDRESS": "3218 N WAGNER RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 0.86934823,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23414",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442010,
+				"PARCELID": "815-34223-000",
+				"OWNERNME1": "TOLEDO, JORGE H & CLEO F",
+				"PSTLADDRESS": "1850 HIGH AVE",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 0.16979732,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=83238",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442013,
+				"PARCELID": "760-03198-000",
+				"OWNERNME1": "RIGGINS COMMERCIAL CONSTRUCTION ",
+				"PSTLADDRESS": "1204 E JOYCE BLVD STE 102",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 5.01031997,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109892",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442014,
+				"PARCELID": "785-19089-000",
+				"OWNERNME1": "CLEAR CREEK RESIDENTIAL LLC",
+				"PSTLADDRESS": "C/O CRAIG JONES",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.20120255,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92891",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442017,
+				"PARCELID": "001-10456-007",
+				"OWNERNME1": "KISIC, JASON & CINDY",
+				"PSTLADDRESS": "725 CR 227",
+				"PSTLCITY": "EUREKA SPRINGS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72632",
+				"ACRES": 20.65659771,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128473",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442019,
+				"PARCELID": "001-15376-000",
+				"OWNERNME1": "OWENS, PAULA G",
+				"PSTLADDRESS": "18400 DULCIMER RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 22.07932186,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=22260",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442020,
+				"PARCELID": "785-19099-000",
+				"OWNERNME1": "BERTRAM, STEVEN D & DEVIN",
+				"PSTLADDRESS": "5432 CORDELL DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 0.28441706,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92901",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442021,
+				"PARCELID": "785-19086-000",
+				"OWNERNME1": "CLEAR CREEK RESIDENTIAL LLC",
+				"PSTLADDRESS": "C/O CRAIG JONES",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.28263673,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92888",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442022,
+				"PARCELID": "785-19118-000",
+				"OWNERNME1": "CLEAR CREEK RESIDENTIAL LLC",
+				"PSTLADDRESS": "C/O CRAIG JONES",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 8.58653239,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92920",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442024,
+				"PARCELID": "001-10008-002",
+				"OWNERNME1": "DAVIS, CARMEN; MIDDLEBROOK,",
+				"PSTLADDRESS": "4903 E MAYWOOD RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 11.84084851,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=96650",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442025,
+				"PARCELID": "830-38291-000",
+				"OWNERNME1": "HIGHFILL, BOBBY ELMAN &",
+				"PSTLADDRESS": "1782 S BARRINGTON RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 38.03085373,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=94420",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442026,
+				"PARCELID": "001-06073-005",
+				"OWNERNME1": "OVIEDO, CAROLYN M (WILLIAMS)",
+				"PSTLADDRESS": "11550 ED EDWARDS RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 3.09034519,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128479",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442027,
+				"PARCELID": "001-16761-001",
+				"OWNERNME1": "BOURKE, PAT & LISA",
+				"PSTLADDRESS": "4719 MAYES DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 2.00103282,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128242",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442028,
+				"PARCELID": "001-07195-000",
+				"OWNERNME1": "PERKINS, DAVID N",
+				"PSTLADDRESS": "586 ELKINS ST",
+				"PSTLCITY": "West Fork",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72774",
+				"ACRES": 0.60057604,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=10112",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442029,
+				"PARCELID": "001-07179-000",
+				"OWNERNME1": "LINDSEY, BARBARA H",
+				"PSTLADDRESS": "PO BOX 100",
+				"PSTLCITY": "WEST FORK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72774",
+				"ACRES": 0.01275166,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=10091",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442031,
+				"PARCELID": "815-29206-000",
+				"OWNERNME1": "DONERIGHT BUILDERS INC",
+				"PSTLADDRESS": "403 CHARLES AVE",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 1.24476073,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=75964",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442033,
+				"PARCELID": "001-15036-000",
+				"OWNERNME1": "MINTON, R SCOTT",
+				"PSTLADDRESS": "16621 RANCHERO RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 4.6126196,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21766",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442034,
+				"PARCELID": "815-29503-000",
+				"OWNERNME1": "JHT LLC",
+				"PSTLADDRESS": "ATTN: CHUCK ER",
+				"PSTLCITY": "LITTLE ROCK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72223",
+				"ACRES": 66.57121252,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=76939",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442035,
+				"PARCELID": "785-19305-000",
+				"OWNERNME1": "FRANK GRIFFIN OIL COMPANY INC",
+				"PSTLADDRESS": "412 BENT TREE COURT",
+				"PSTLCITY": "RUSSELLVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72802",
+				"ACRES": 2.39236167,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=112037",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442036,
+				"PARCELID": "001-16727-002",
+				"OWNERNME1": "WITTER, MORRIS D & KATHRYN L",
+				"PSTLADDRESS": "3479 W SALEM RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 0.89639325,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23354",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442037,
+				"PARCELID": "785-19083-000",
+				"OWNERNME1": "TOLLETT, TRAVIS TODD & ABBEY ELIZABETH",
+				"PSTLADDRESS": "11977 CHURCHILL DOWNS",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 0.28224564,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92885",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442038,
+				"PARCELID": "815-30649-000",
+				"OWNERNME1": "DJ FIELD HOLDINGS LLC",
+				"PSTLADDRESS": "2925 N CHARLESTON XING",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 0.68196667,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=79502",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442039,
+				"PARCELID": "001-12944-000",
+				"OWNERNME1": "WILLOW SPRINGS LAND HOLDINGS LLC",
+				"PSTLADDRESS": "15053 WALKER RD",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 116.00158614,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=18930",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442041,
+				"PARCELID": "815-28642-001",
+				"OWNERNME1": "TALMOORE TOWNHOMES LLC",
+				"PSTLADDRESS": "PO BOX 773",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72765",
+				"ACRES": 0.83473001,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128506",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442042,
+				"PARCELID": "001-15373-000",
+				"OWNERNME1": "CRAIG RESIDENCE TRUST",
+				"PSTLADDRESS": "18541 BEAV-O-RAMA RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 20.30791967,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=22256",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442043,
+				"PARCELID": "760-03159-000",
+				"OWNERNME1": "HAMBLEN, GARY JACK & ZELLA FAYE",
+				"PSTLADDRESS": "50 N LOCUST ST",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 0.58438905,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109855",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442044,
+				"PARCELID": "785-18024-280",
+				"OWNERNME1": "MY PLACE ON EARTH LLC",
+				"PSTLADDRESS": "313 W DICKSON ST STE 201",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 23.11713003,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=61745",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442045,
+				"PARCELID": "785-19091-000",
+				"OWNERNME1": "MCCONNELL, JOHN TRUST; MCCONNELL, ASHLEY TRUST",
+				"PSTLADDRESS": "5376 CORDELL DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 0.29165464,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92893",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442047,
+				"PARCELID": "785-18023-201",
+				"OWNERNME1": "TONS OF STORAGE LLC",
+				"PSTLADDRESS": "4800 JOHNSON RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 3.85494197,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=61663",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442048,
+				"PARCELID": "775-18044-500",
+				"OWNERNME1": "REYNOLDS, ALMA LOU  REV TRUST",
+				"PSTLADDRESS": "10471 SW CAMPBELL ROAD ",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 46.5123172,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=121772",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442049,
+				"PARCELID": "815-33730-000",
+				"OWNERNME1": "ORCHARD TOWNHOMES LLC",
+				"PSTLADDRESS": "5100 S THOMPSON ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 0.40939173,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=82734",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442050,
+				"PARCELID": "001-10150-000",
+				"OWNERNME1": "MCDANIEL, STEPHEN L & DONNA D",
+				"PSTLADDRESS": "21581 E HWY 74",
+				"PSTLCITY": "WESLEY",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72773",
+				"ACRES": 5.08626941,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14661",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442051,
+				"PARCELID": "001-10150-003",
+				"OWNERNME1": "MCDANIEL, SAMUEL ALLEN ",
+				"PSTLADDRESS": "PO BOX 363",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 15.75076073,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128520",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442052,
+				"PARCELID": "001-10151-001",
+				"OWNERNME1": "MCDANIEL, SAMUEL ALLEN ",
+				"PSTLADDRESS": "PO BOX 363",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 143.16347303,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128521",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442053,
+				"PARCELID": "760-03201-001",
+				"OWNERNME1": "ARKANSAS STATE HIGHWAY COMMISSION",
+				"PSTLADDRESS": "PO BOX 2261",
+				"PSTLCITY": "LITTLE ROCK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72203",
+				"ACRES": 2.83700051,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=124809",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442054,
+				"PARCELID": "001-16725-000",
+				"OWNERNME1": "BELL, DAVID T & CHRISTINE K",
+				"PSTLADDRESS": "3575 W SALEM RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 1.57679453,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23350",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442055,
+				"PARCELID": "815-29465-000",
+				"OWNERNME1": "KC LEASING LLC",
+				"PSTLADDRESS": "1915 CONSTITUTION AVE",
+				"PSTLCITY": "PRATTVILLE",
+				"PSTLSTATE": "AL",
+				"PSTLZIP5": "36066",
+				"ACRES": 2.50964309,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=76834",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442057,
+				"PARCELID": "785-19092-000",
+				"OWNERNME1": "MOORE, LYNN",
+				"PSTLADDRESS": "5418 BONDY PL",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 0.27152403,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92894",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442058,
+				"PARCELID": "815-30650-000",
+				"OWNERNME1": "GUILLEN, ARTURO JR",
+				"PSTLADDRESS": "979 E DON TYSON PKWY",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 0.77771075,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=79503",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442060,
+				"PARCELID": "785-18040-100",
+				"OWNERNME1": "CITY OF JOHNSON",
+				"PSTLADDRESS": "PO BOX 563",
+				"PSTLCITY": "JOHNSON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72741",
+				"ACRES": 1.67386437,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128156",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442061,
+				"PARCELID": "815-30857-091",
+				"OWNERNME1": "LONG-LYKINS LLC",
+				"PSTLADDRESS": "1400 SE WALTON",
+				"PSTLCITY": "BENTONVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72712",
+				"ACRES": 0.56097037,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128511",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442062,
+				"PARCELID": "805-20952-000",
+				"OWNERNME1": "SANDERS, DANIEL EUGENE & MICHELLE",
+				"PSTLADDRESS": "551 CAPTAIN STOCKTON ST",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 3.16847136,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=99490",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442063,
+				"PARCELID": "001-13838-001",
+				"OWNERNME1": "ERNST, ROBERT C & CAROLYN M",
+				"PSTLADDRESS": "21665 S VANZANT RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 1.29780188,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128523",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442065,
+				"PARCELID": "785-19103-000",
+				"OWNERNME1": "WEAVER, PAULA R TRUST",
+				"PSTLADDRESS": "5514 CORDELL DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 0.17698556,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92905",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442067,
+				"PARCELID": "815-29469-000",
+				"OWNERNME1": "KAL PROPERTIES LLC",
+				"PSTLADDRESS": "4515 TOWNSON AVE",
+				"PSTLCITY": "FORT SMITH",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72901",
+				"ACRES": 3.63564789,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=76838",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442068,
+				"PARCELID": "815-29211-000",
+				"OWNERNME1": "KC LEASING LLC",
+				"PSTLADDRESS": "1915 CONSTITUTION AVE",
+				"PSTLCITY": "PRATTVILLE",
+				"PSTLSTATE": "AL",
+				"PSTLZIP5": "36066",
+				"ACRES": 0.22066152,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=75969",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442069,
+				"PARCELID": "765-02982-001",
+				"OWNERNME1": "CITY OF FAYETTEVILLE",
+				"PSTLADDRESS": "113 W MOUNTAIN ST",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.00657571,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128542",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442072,
+				"PARCELID": "001-16726-000",
+				"OWNERNME1": "CAMPOS, ALBERTO JOSE & ROLF, KARINA ",
+				"PSTLADDRESS": "2731 N FLORAL CT",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 7.8801,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23351",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442074,
+				"PARCELID": "001-15035-001",
+				"OWNERNME1": "MCCALL, JESS L & BRENDA L FAMILY TRUST",
+				"PSTLADDRESS": "16638 RANCHERO RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 3.10491838,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21765",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442076,
+				"PARCELID": "001-10152-000",
+				"OWNERNME1": "BROWN, ROBERT KELLY ",
+				"PSTLADDRESS": "PO BOX 92 ",
+				"PSTLCITY": "WESLEY",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72773",
+				"ACRES": null,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14664",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442077,
+				"PARCELID": "805-20952-001",
+				"OWNERNME1": "STERNBERG, MARK JEFFREY & DEBRA LYNN",
+				"PSTLADDRESS": "1011 SEDGWICK DR",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 0.55416557,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128522",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442079,
+				"PARCELID": "815-39533-000",
+				"OWNERNME1": "HABBERTON RIDGE BRES LLC; HABBERTON RIDGE ",
+				"PSTLADDRESS": "4622 PENNSYLVANIA AVE STE 700",
+				"PSTLCITY": "KANSAS CITY",
+				"PSTLSTATE": "MO",
+				"PSTLZIP5": "64112",
+				"ACRES": 0.21569611,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=125679",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442080,
+				"PARCELID": "785-19085-000",
+				"OWNERNME1": "CLEAR CREEK RESIDENTIAL LLC",
+				"PSTLADDRESS": "C/O CRAIG JONES",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.35013247,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92887",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442081,
+				"PARCELID": "765-24085-001",
+				"OWNERNME1": "CITY OF FAYETTEVILLE",
+				"PSTLADDRESS": "113 W MOUNTAIN ST",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.10027493,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128545",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442085,
+				"PARCELID": "001-10151-000",
+				"OWNERNME1": "MCDANIEL, STEPHEN L & DONNA D",
+				"PSTLADDRESS": "21581 E HWY 74",
+				"PSTLCITY": "WESLEY",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72773",
+				"ACRES": 51.61051489,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14663",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442086,
+				"PARCELID": "001-13835-000",
+				"OWNERNME1": "MITCHELL FAMILY TRUST",
+				"PSTLADDRESS": "21665 S VANZANT RD ",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 66.95691959,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=20287",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442089,
+				"PARCELID": "001-16726-001",
+				"OWNERNME1": "RUSSELL, RANDON & NIKKI",
+				"PSTLADDRESS": "3620 DUPONT AVE",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 1.7226,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23352",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442093,
+				"PARCELID": "770-18287-000",
+				"OWNERNME1": "RIVERSIDE ESTATES OF GOSHEN LLC",
+				"PSTLADDRESS": "1204 E JOYCE BLVD #102",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 0.57393504,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128045",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442095,
+				"PARCELID": "815-29470-000",
+				"OWNERNME1": "KC LEASING LLC",
+				"PSTLADDRESS": "1915 CONSTITUTION AVE",
+				"PSTLCITY": "PRATTVILLE",
+				"PSTLSTATE": "AL",
+				"PSTLZIP5": "36066",
+				"ACRES": 0.04055183,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=76839",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442096,
+				"PARCELID": "815-36188-600",
+				"OWNERNME1": "BCR DEVELOPMENT LLC",
+				"PSTLADDRESS": "1204 E JOYCE BLVD STE 102",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 26.6509,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=106111",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442097,
+				"PARCELID": "815-29211-001",
+				"OWNERNME1": "KAL PROPERTIES LLC",
+				"PSTLADDRESS": "4515 TOWNSON AVE",
+				"PSTLCITY": "FORT SMITH",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72901",
+				"ACRES": 1.78056279,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=75970",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442099,
+				"PARCELID": "785-18506-000",
+				"OWNERNME1": "HUFFEY, RICHARD R & JUNE CARSON",
+				"PSTLADDRESS": "2340 W INDIAN OAKS TRL ",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 0.42527494,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=62504",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442102,
+				"PARCELID": "775-18044-402",
+				"OWNERNME1": "ARP SW CAMPBELL LLC",
+				"PSTLADDRESS": "1457 YUMA DR",
+				"PSTLCITY": "FRISCO",
+				"PSTLSTATE": "TX",
+				"PSTLZIP5": "75033",
+				"ACRES": 18.26095555,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128552",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442103,
+				"PARCELID": "770-17490-001",
+				"OWNERNME1": "HAWKINS, CHRIS A & MARY D",
+				"PSTLADDRESS": "295 E BOWEN BLVD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 2.00198955,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109551",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442105,
+				"PARCELID": "760-03209-002",
+				"OWNERNME1": "ARKANSAS STATE HIGHWAY COMMISSION",
+				"PSTLADDRESS": "PO BOX 2261",
+				"PSTLCITY": "LITTLE ROCK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72203",
+				"ACRES": 0.36436137,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=124699",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442106,
+				"PARCELID": "760-03207-000",
+				"OWNERNME1": "LEWIS, LINDA MARIE",
+				"PSTLADDRESS": "12008 N HWY 170",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 17.70118951,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109901",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442107,
+				"PARCELID": "001-12940-002",
+				"OWNERNME1": "NALL, LARRY A & PAULA D",
+				"PSTLADDRESS": "15104 PRAIRIE VIEW RD",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 1.00396607,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128553",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442108,
+				"PARCELID": "770-17491-005",
+				"OWNERNME1": "RYAN, GREG & KELLY",
+				"PSTLADDRESS": "5272 PRESTWICK CIR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 9.05267066,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=127333",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442109,
+				"PARCELID": "785-19100-000",
+				"OWNERNME1": "PAGNOZZI, TOM A & COLLEEN M",
+				"PSTLADDRESS": "3288 E PIPER GLEN",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 0.30588299,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92902",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442110,
+				"PARCELID": "760-03162-000",
+				"OWNERNME1": "HAMBLEN, GARY JACK & ZELLA FAYE",
+				"PSTLADDRESS": "50 N LOCUST ST",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 29.14005984,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109858",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442111,
+				"PARCELID": "785-18996-000",
+				"OWNERNME1": "CEMETERY (AKA) STUCKEY CEMETERY",
+				"PSTLADDRESS": "",
+				"PSTLCITY": "",
+				"PSTLSTATE": "",
+				"PSTLZIP5": "",
+				"ACRES": 0.81081652,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=89965",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442114,
+				"PARCELID": "785-19084-000",
+				"OWNERNME1": "PRETZER, SUSAN",
+				"PSTLADDRESS": "5354 CORDELL WAY",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 0.23682489,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92886",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442115,
+				"PARCELID": "815-30648-000",
+				"OWNERNME1": "CK INVESTMENTS OF NWA LLC",
+				"PSTLADDRESS": "4079 E ZION RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 1.31481529,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=79500",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442116,
+				"PARCELID": "001-15793-100",
+				"OWNERNME1": "MISSION TRUST",
+				"PSTLADDRESS": "5647 E MISSION BLVD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 0.24817304,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128550",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442118,
+				"PARCELID": "775-18044-401",
+				"OWNERNME1": "HAMILTON, TAYLOR & JENNIFER",
+				"PSTLADDRESS": "2903 N RAVEN LN",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 14.06752845,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128481",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442119,
+				"PARCELID": "770-17492-002",
+				"OWNERNME1": "B & R INVESTMENTS INC",
+				"PSTLADDRESS": "2745 HIDDEN SPRINGS DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 0.53144984,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=60570",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442121,
+				"PARCELID": "001-15371-000",
+				"OWNERNME1": "MCGAUGH, DEANNE",
+				"PSTLADDRESS": "18526 BEAV-O-RAMA RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 39.13910298,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=22252",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442122,
+				"PARCELID": "001-15375-000",
+				"OWNERNME1": "US (BEAVER RESERVOIR)",
+				"PSTLADDRESS": "",
+				"PSTLCITY": "",
+				"PSTLSTATE": "",
+				"PSTLZIP5": "",
+				"ACRES": 17.37478808,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=22259",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442123,
+				"PARCELID": "770-18287-001",
+				"OWNERNME1": "BARTON, WILLIAM SCOTT & DARBY",
+				"PSTLADDRESS": "453 SONOMA CIR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 12.897536,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128535",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442124,
+				"PARCELID": "785-19098-000",
+				"OWNERNME1": "CLEAR CREEK RESIDENTIAL LLC",
+				"PSTLADDRESS": "C/O CRAIG JONES",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.18601109,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92900",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442127,
+				"PARCELID": "775-18044-400",
+				"OWNERNME1": "MCELROY, SCOTT W & KIMBERLY",
+				"PSTLADDRESS": "3956 N BRIDLEWOOD DR",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 20.76497942,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=121771",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442130,
+				"PARCELID": "815-39547-000",
+				"OWNERNME1": "BORDELON, MALLORY ALISE & GREGORY SCOTT",
+				"PSTLADDRESS": "3813 ROCKDALE ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 0.12294514,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=125693",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442131,
+				"PARCELID": "760-03210-001",
+				"OWNERNME1": "ARKANSAS STATE HIGHWAY COMMISSION",
+				"PSTLADDRESS": "PO BOX 2261",
+				"PSTLCITY": "LITTLE ROCK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72203",
+				"ACRES": 0.86180172,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=124662",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442134,
+				"PARCELID": "785-18505-000",
+				"OWNERNME1": "PAYNE, C W ; PAYNE, STEVEN W ; ",
+				"PSTLADDRESS": "4907 N INDIAN OAKS TRL",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 0.26311409,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=62503",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442135,
+				"PARCELID": "770-17496-001",
+				"OWNERNME1": "MCCLELLAND, MATTHEW PHILLIP & DANA LOUISE",
+				"PSTLADDRESS": "17612 CAMPBELL LN",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 3.99291594,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=91934",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442136,
+				"PARCELID": "775-17761-001",
+				"OWNERNME1": "SMITH, EDWARD E & FRANKIE L",
+				"PSTLADDRESS": "PO BOX 11",
+				"PSTLCITY": "GREENLAND",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72737",
+				"ACRES": 1.26486112,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=61064",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442139,
+				"PARCELID": "001-15374-000",
+				"OWNERNME1": "WILLIAMS, RYAN B & AMBER M",
+				"PSTLADDRESS": "6809 N URANIA CT",
+				"PSTLCITY": "LAS VEGAS",
+				"PSTLSTATE": "NV",
+				"PSTLZIP5": "89131",
+				"ACRES": 4.50760561,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=22257",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442140,
+				"PARCELID": "001-15030-001",
+				"OWNERNME1": "LONG, A HUNTER DECLARATION OF TRUST;",
+				"PSTLADDRESS": "19019 SONORA RD ",
+				"PSTLCITY": "SPRINGDALE ",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 12.42869984,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21755",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442141,
+				"PARCELID": "785-19081-000",
+				"OWNERNME1": "SUDDUTH, KELLY S & MARTI I",
+				"PSTLADDRESS": "891 BEAU CHALET DR",
+				"PSTLCITY": "BENTONVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72713",
+				"ACRES": 0.4916,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92883",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442144,
+				"PARCELID": "785-18023-202",
+				"OWNERNME1": "TONS OF STORAGE LLC",
+				"PSTLADDRESS": "4800 JOHNSON RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 0.23053076,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128548",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442145,
+				"PARCELID": "775-18044-201",
+				"OWNERNME1": "CATE, MARK R & MICHELE D",
+				"PSTLADDRESS": "447 CAMPBELL LOOP",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 12.64561875,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=127351",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442146,
+				"PARCELID": "001-14843-005",
+				"OWNERNME1": "HARRIS, JOHNIE SUE REV TRUST",
+				"PSTLADDRESS": "3014 Memphis St",
+				"PSTLCITY": "Fort Smith",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72901",
+				"ACRES": 8.49591064,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21443",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442147,
+				"PARCELID": "805-20346-003",
+				"OWNERNME1": "ARKANSAS STATE HIGHWAY COMMISSION",
+				"PSTLADDRESS": "PO BOX 2261",
+				"PSTLCITY": "LITTLE ROCK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72203",
+				"ACRES": 11.23274505,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=118833",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442148,
+				"PARCELID": "765-02986-001",
+				"OWNERNME1": "CITY OF FAYETTEVILLE",
+				"PSTLADDRESS": "113 W MOUNTAIN ST",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.00252516,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128539",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442151,
+				"PARCELID": "001-12940-001",
+				"OWNERNME1": "WALKER, ERIC W",
+				"PSTLADDRESS": "14844 WALKER RD",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 39.36904827,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=103728",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442152,
+				"PARCELID": "770-17490-000",
+				"OWNERNME1": "CITY OF GOSHEN, ARKANSAS",
+				"PSTLADDRESS": "PO BOX 7",
+				"PSTLCITY": "GOSHEN",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72735",
+				"ACRES": 17.32581994,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=60564",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442153,
+				"PARCELID": "775-17786-001",
+				"OWNERNME1": "DOOLEY, MORGAN",
+				"PSTLADDRESS": "93 W SMITH ST ",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 2.0729,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128561",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442156,
+				"PARCELID": "770-17500-001",
+				"OWNERNME1": "HAWKINS, CHRIS A & MARY D",
+				"PSTLADDRESS": "295 E BOWEN BLVD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 1.90491294,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=121480",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442157,
+				"PARCELID": "001-14843-004",
+				"OWNERNME1": "LARSON, CRAIG B & CHERYL A",
+				"PSTLADDRESS": "19647 BEILLS BLUFF RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 0.84796908,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21442",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442158,
+				"PARCELID": "001-07943-004",
+				"OWNERNME1": "HAWLEY, RACHEL S",
+				"PSTLADDRESS": "203 E BUSH ST",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 1.48105276,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128498",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442159,
+				"PARCELID": "001-07179-001",
+				"OWNERNME1": "BLOCK, BRANDON CORY & HICKS, ARWYN  GABRIELLA",
+				"PSTLADDRESS": "887 STOCKBURGER AVE",
+				"PSTLCITY": "WEST FORK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72774",
+				"ACRES": 0.85731979,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=122884",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442160,
+				"PARCELID": "785-19090-000",
+				"OWNERNME1": "CERDA, JAIME FLORES & FLORES, VIANEY BELTRAN",
+				"PSTLADDRESS": "PO BOX 7505",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72766",
+				"ACRES": 0.23476485,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92892",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442162,
+				"PARCELID": "815-30651-000",
+				"OWNERNME1": "HASBROUCK, ZACHARY & SHELBIE",
+				"PSTLADDRESS": "983 E DON TYSON PKWY",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 3.32824781,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=79504",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442164,
+				"PARCELID": "001-16727-003",
+				"OWNERNME1": "COLLIER, JAMES KELLY & LORI",
+				"PSTLADDRESS": "3495 W SALEM RD ",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 0.96922295,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=119313",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442165,
+				"PARCELID": "001-06736-001",
+				"OWNERNME1": "COOKSEY, ROGER D",
+				"PSTLADDRESS": "10149 FAIRVIEW LN",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 26.82331557,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=116583",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442169,
+				"PARCELID": "001-14874-001",
+				"OWNERNME1": "WYLIEBOY LLC AS TTEE OF THE BARK LAND TRUST",
+				"PSTLADDRESS": "200 W 34 TH AVE #977",
+				"PSTLCITY": "ANCHORAGE",
+				"PSTLSTATE": "AK",
+				"PSTLZIP5": "99503",
+				"ACRES": 4.97542666,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21509",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442170,
+				"PARCELID": "815-29205-001",
+				"OWNERNME1": "KAL PROPERTIES LLC",
+				"PSTLADDRESS": "4515 TOWNSON AVE",
+				"PSTLCITY": "FORT SMITH",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72901",
+				"ACRES": 1.58408429,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=75963",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442171,
+				"PARCELID": "815-29205-000",
+				"OWNERNME1": "CARMAN, CALEB & MELINDA",
+				"PSTLADDRESS": "13498 HOGEYE RD",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 1.03370195,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=75962",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442172,
+				"PARCELID": "760-03202-002",
+				"OWNERNME1": "ARKANSAS STATE HIGHWAY COMMISSION",
+				"PSTLADDRESS": "PO BOX 2261",
+				"PSTLCITY": "LITTLE ROCK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72203",
+				"ACRES": 1.0900929,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=124810",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442178,
+				"PARCELID": "001-14844-001",
+				"OWNERNME1": "ARKANSAS STATE HIGHWAY COMMISSION",
+				"PSTLADDRESS": "PO BOX 2261",
+				"PSTLCITY": "LITTLE ROCK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72203",
+				"ACRES": 1.41527746,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21449",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442179,
+				"PARCELID": "815-30652-000",
+				"OWNERNME1": "TODD, GERALD G",
+				"PSTLADDRESS": "915 E DON TYSON PKWY",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 2.06210228,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=79505",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442182,
+				"PARCELID": "001-14874-003",
+				"OWNERNME1": "MCCLURE, CURTIS L & ALDEA J",
+				"PSTLADDRESS": "3219 EUPEIL LN",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 9.21765071,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21511",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442183,
+				"PARCELID": "001-15029-000",
+				"OWNERNME1": "GOLDMAN, HARIS A & SUE",
+				"PSTLADDRESS": "PO BOX 1538",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72765",
+				"ACRES": 4.46499241,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21753",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442184,
+				"PARCELID": "760-03209-000",
+				"OWNERNME1": "LEWIS, LINDA MARIE",
+				"PSTLADDRESS": "12008 N HWY 170",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 8.47687829,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109903",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442185,
+				"PARCELID": "785-19088-000",
+				"OWNERNME1": "CLEAR CREEK RESIDENTIAL LLC",
+				"PSTLADDRESS": "C/O CRAIG JONES",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.17921322,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92890",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442186,
+				"PARCELID": "785-19079-000",
+				"OWNERNME1": "THOMPSON, BECKY",
+				"PSTLADDRESS": "3394 BOWEN DR",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 0.21161304,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92881",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442187,
+				"PARCELID": "765-02981-001",
+				"OWNERNME1": "CITY OF FAYETTEVILLE",
+				"PSTLADDRESS": "113 W MOUNTAIN ST",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.01356494,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128543",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442189,
+				"PARCELID": "815-27410-000",
+				"OWNERNME1": "AVELAR, JESUS & PEREZ, MARIA DEL PILAR SANCHEZ",
+				"PSTLADDRESS": "4705 REDWOOD ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 0.26612319,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=73241",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442190,
+				"PARCELID": "770-17497-000",
+				"OWNERNME1": "CITY OF GOSHEN, ARKANSAS",
+				"PSTLADDRESS": "PO BOX 7",
+				"PSTLCITY": "GOSHEN",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72735",
+				"ACRES": 1.79468906,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=60574",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442193,
+				"PARCELID": "001-14844-003",
+				"OWNERNME1": "WILLIAMSON, GLADE L & CHRISTINA ",
+				"PSTLADDRESS": "PO BOX 873",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72765",
+				"ACRES": 1.45836034,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109779",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442195,
+				"PARCELID": "770-17494-002",
+				"OWNERNME1": "BARTHOLOMEW, GARY & MARIE",
+				"PSTLADDRESS": "215 E BOWEN BLVD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 2.00929322,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=121912",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442197,
+				"PARCELID": "001-14844-000",
+				"OWNERNME1": "HARP, DAVID A & GENEVA SUE",
+				"PSTLADDRESS": "19877 NEILLS BLUFF RD ",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 3.41574656,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21448",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442199,
+				"PARCELID": "001-17438-002",
+				"OWNERNME1": "ZELENKO, GREGG A",
+				"PSTLADDRESS": "14890 SAVOY RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 1.03903984,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=113455",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442200,
+				"PARCELID": "775-17787-000",
+				"OWNERNME1": "NELSON, JOHN MARIUS & PAMELA DIANE",
+				"PSTLADDRESS": "2106 SYCAMORE PL",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72762",
+				"ACRES": 2.68954033,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=61104",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442201,
+				"PARCELID": "775-17761-000",
+				"OWNERNME1": "SMITH, EDWARD E & FRANKIE L",
+				"PSTLADDRESS": "PO BOX 11",
+				"PSTLCITY": "GREENLAND",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72737",
+				"ACRES": 1.26751189,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=61063",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442202,
+				"PARCELID": "001-14843-003",
+				"OWNERNME1": "HARP, DAVID A & GENEVA SUE",
+				"PSTLADDRESS": "19877 NEILLS BLUFF RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 5.89222649,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21441",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442204,
+				"PARCELID": "815-36190-601",
+				"OWNERNME1": "OZARKS ELECTRIC COOPERATIVE INC",
+				"PSTLADDRESS": "PO BOX 848",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72702",
+				"ACRES": 0.99960626,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=117403",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442206,
+				"PARCELID": "001-15337-004",
+				"OWNERNME1": "HOMESTEAD INC ",
+				"PSTLADDRESS": "PO BOX 8835",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 15.43009477,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128033",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442210,
+				"PARCELID": "775-18044-600",
+				"OWNERNME1": "NORRIS, MELODY A & MARTIN, CHRIS EUGENE;",
+				"PSTLADDRESS": "10249 SW CAMPBELL RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 12.12833976,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=121773",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442211,
+				"PARCELID": "001-12372-001",
+				"OWNERNME1": "MOORE, CHARLES J & AMY C",
+				"PSTLADDRESS": "13010 PEARSON RANCH RD",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 5.83510072,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=18042",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442212,
+				"PARCELID": "775-17786-000",
+				"OWNERNME1": "REA, ROBERT L & CHRISTINE G",
+				"PSTLADDRESS": "P.O. BOX 348",
+				"PSTLCITY": "GREENLAND",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72737",
+				"ACRES": 1.0258,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=61103",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442213,
+				"PARCELID": "001-07194-003",
+				"OWNERNME1": "ANTTILA, GARY; WESTEEN, KELLY",
+				"PSTLADDRESS": "440 HARNESS LN",
+				"PSTLCITY": "WEST FORK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72774",
+				"ACRES": 3.90696236,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128508",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442214,
+				"PARCELID": "001-13838-000",
+				"OWNERNME1": "ERNST, CHAD R & MEGAN L",
+				"PSTLADDRESS": "340 RIVER RIDGE DR",
+				"PSTLCITY": "PENDERGRASS",
+				"PSTLSTATE": "GA",
+				"PSTLZIP5": "30567",
+				"ACRES": 30.83071444,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=20291",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442215,
+				"PARCELID": "785-19102-000",
+				"OWNERNME1": "BRADLEY, JAMES R & NIKKI",
+				"PSTLADDRESS": "PO BOX 1126",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72765",
+				"ACRES": 0.26547015,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92904",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442217,
+				"PARCELID": "760-03205-000",
+				"OWNERNME1": "COMBS, STEPHEN W & DONNA SUE",
+				"PSTLADDRESS": "11516 S APPLEBY RD",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 21.09032898,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109899",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442220,
+				"PARCELID": "770-17492-001",
+				"OWNERNME1": "CITY OF GOSHEN, ARKANSAS",
+				"PSTLADDRESS": "PO BOX 7",
+				"PSTLCITY": "GOSHEN",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72735",
+				"ACRES": 5.50899772,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=60569",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442221,
+				"PARCELID": "001-14843-002",
+				"OWNERNME1": "MCCABE, BRENDA K AND JERRY D",
+				"PSTLADDRESS": "PO BOX 603",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72765",
+				"ACRES": 8.03751017,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21440",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442222,
+				"PARCELID": "001-16765-001",
+				"OWNERNME1": "HUCKABY, GARY EUGENE",
+				"PSTLADDRESS": "3320 N WAGNER RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 1.5155591,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=23412",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442223,
+				"PARCELID": "001-17438-004",
+				"OWNERNME1": "EZELL, DANIEL PHILIP & KENADIE KESTNER",
+				"PSTLADDRESS": "PO BOX 135",
+				"PSTLCITY": "TONTITOWN",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72770",
+				"ACRES": 10.49062858,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128500",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442226,
+				"PARCELID": "760-03210-000",
+				"OWNERNME1": "LEWIS, LINDA MARIE",
+				"PSTLADDRESS": "12008 N HWY 170",
+				"PSTLCITY": "FARMINGTON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72730",
+				"ACRES": 2.91604756,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109904",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442228,
+				"PARCELID": "785-18023-203",
+				"OWNERNME1": "CITY OF JOHNSON",
+				"PSTLADDRESS": "PO BOX 563",
+				"PSTLCITY": "JOHNSON",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72741",
+				"ACRES": 0.15644738,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128549",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442229,
+				"PARCELID": "765-15269-310",
+				"OWNERNME1": "RIGGINS COMMERCIAL CONSTRUCTION ",
+				"PSTLADDRESS": "1204 E JOYCE BLVD STE 102",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 13.77908707,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128562",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442230,
+				"PARCELID": "001-14843-001",
+				"OWNERNME1": "WILLIAMSON, GLADE L & CHRISTINA ",
+				"PSTLADDRESS": "P O BOX 873",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72765",
+				"ACRES": 2.68856955,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21439",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442231,
+				"PARCELID": "785-19087-000",
+				"OWNERNME1": "CLEAR CREEK RESIDENTIAL LLC",
+				"PSTLADDRESS": "C/O CRAIG JONES",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.17878829,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92889",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442234,
+				"PARCELID": "001-12943-000",
+				"OWNERNME1": "WILLOW SPRINGS LAND HOLDINGS LLC",
+				"PSTLADDRESS": "15053 WALKER RD",
+				"PSTLCITY": "PRAIRIE GROVE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72753",
+				"ACRES": 39.72710706,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=18929",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442235,
+				"PARCELID": "770-17551-002",
+				"OWNERNME1": "B & R INVESTMENTS INC",
+				"PSTLADDRESS": "2745 HIDDEN SPRINGS DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 52.59989208,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=91348",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442236,
+				"PARCELID": "001-15374-001",
+				"OWNERNME1": "KOPEK, JOHN MICHAEL & WAKAKO YAMAGUCHI",
+				"PSTLADDRESS": "17926 CAMPBELL LN",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 4.28134248,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=22258",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442237,
+				"PARCELID": "815-39723-000",
+				"OWNERNME1": "DEMENT, KELLY LOUISE & MARK RICHARD",
+				"PSTLADDRESS": "1919 LADELLE AVE",
+				"PSTLCITY": "LOWELL",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72745",
+				"ACRES": 0.1200743,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=127161",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442238,
+				"PARCELID": "785-19080-000",
+				"OWNERNME1": "CLEAR CREEK RESIDENTIAL LLC",
+				"PSTLADDRESS": "C/O CRAIG JONES",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.20053275,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92882",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442242,
+				"PARCELID": "001-07040-000",
+				"OWNERNME1": "STOUT, DAVID L; BOX, LEANN P",
+				"PSTLADDRESS": "PO BOX 456",
+				"PSTLCITY": "GREENLAND",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72737",
+				"ACRES": 39.67613355,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=9843",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442243,
+				"PARCELID": "775-17761-003",
+				"OWNERNME1": "SHUPE, ANDREW E",
+				"PSTLADDRESS": "93 W SMITH ST",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 2.82071624,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=61066",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442245,
+				"PARCELID": "815-36190-800",
+				"OWNERNME1": "NWA LD LLC",
+				"PSTLADDRESS": "PO BOX 10560",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 4.48683204,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=101552",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442246,
+				"PARCELID": "765-02983-001",
+				"OWNERNME1": "CITY OF FAYETTEVILLE",
+				"PSTLADDRESS": "113 W MOUNTAIN ST",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.00574894,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128541",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442247,
+				"PARCELID": "001-14843-000",
+				"OWNERNME1": "MILBURN & BROWN FAMILY TRUST",
+				"PSTLADDRESS": "19751 NEILLS BLUFF RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 4.62285054,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21438",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442248,
+				"PARCELID": "001-07035-002",
+				"OWNERNME1": "MENESES, ERICA A; NEWBERRY, SKYLER D",
+				"PSTLADDRESS": "306 MIDLAND AVE",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 3.17129332,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=126723",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442249,
+				"PARCELID": "001-07180-000",
+				"OWNERNME1": "BEALS, LARRY & MARY MCKEE",
+				"PSTLADDRESS": "526 ELKINS ST",
+				"PSTLCITY": "WEST FORK",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72774",
+				"ACRES": 4.20577238,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=10092",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442253,
+				"PARCELID": "001-08187-001",
+				"OWNERNME1": "DAUGHERTY, ROBERT R REVOCABLE TRUST ",
+				"PSTLADDRESS": "2745 N HIDDEN SPRINGS DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 106.23691843,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=122885",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442254,
+				"PARCELID": "785-19097-000",
+				"OWNERNME1": "WHITE, PATRICIA A TRUST",
+				"PSTLADDRESS": "5394 CORDELL DR",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72704",
+				"ACRES": 0.22807464,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=92899",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442255,
+				"PARCELID": "815-29213-000",
+				"OWNERNME1": "SLONE, MICHAEL DAVID & RAMAH S",
+				"PSTLADDRESS": "3868 N SUNBEST PL",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 14.62665874,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=75973",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442257,
+				"PARCELID": "770-17492-000",
+				"OWNERNME1": "CITY OF GOSHEN, ARKANSAS",
+				"PSTLADDRESS": "PO BOX 7",
+				"PSTLCITY": "GOSHEN",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72735",
+				"ACRES": 3.34735791,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=60568",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442258,
+				"PARCELID": "001-06073-000",
+				"OWNERNME1": "OVIEDO, CAROLYN M (WILLIAMS)",
+				"PSTLADDRESS": "11550 ED EDWARDS RD",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 3.58863339,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=8407",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442259,
+				"PARCELID": "815-34484-000",
+				"OWNERNME1": "SIBRIAN, JOSE HERIBERTO",
+				"PSTLADDRESS": "1925 APPLE BUTTER ST",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": null,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=83501",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442260,
+				"PARCELID": "001-10146-000",
+				"OWNERNME1": "PARKER, MANDRED V JR & JUANITA V",
+				"PSTLADDRESS": "1173 WILLOW OAK ST",
+				"PSTLCITY": "ELKINS",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72727",
+				"ACRES": 9.92850794,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14657",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442261,
+				"PARCELID": "001-10148-000",
+				"OWNERNME1": "SANDERS, HENRY M & SHIRLEY D (DIANE)",
+				"PSTLADDRESS": "21983 E HWY 74",
+				"PSTLCITY": "WESLEY",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72773",
+				"ACRES": 56.39656411,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=14659",
+				"HOMESTEAD": "Yes"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442262,
+				"PARCELID": "001-13829-002",
+				"OWNERNME1": "MATHIAS RANCH LLC",
+				"PSTLADDRESS": "PO BOX 6485",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72766",
+				"ACRES": 79.45016016,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=20279",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442263,
+				"PARCELID": "760-03201-000",
+				"OWNERNME1": "RIGGINS COMMERCIAL CONSTRUCTION ",
+				"PSTLADDRESS": "1204 E JOYCE BLVD STE 102",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72703",
+				"ACRES": 27.20892076,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=109895",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442264,
+				"PARCELID": "765-02984-001",
+				"OWNERNME1": "CITY OF FAYETTEVILLE",
+				"PSTLADDRESS": "113 W MOUNTAIN ST",
+				"PSTLCITY": "FAYETTEVILLE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72701",
+				"ACRES": 0.00498991,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=128547",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442266,
+				"PARCELID": "UNKNOWN175",
+				"OWNERNME1": "",
+				"PSTLADDRESS": "",
+				"PSTLCITY": "",
+				"PSTLSTATE": "",
+				"PSTLZIP5": "",
+				"ACRES": 0.08552658,
+				"URL": "N/A",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442267,
+				"PARCELID": "UNKNOWN176",
+				"OWNERNME1": "",
+				"PSTLADDRESS": "",
+				"PSTLCITY": "",
+				"PSTLSTATE": "",
+				"PSTLZIP5": "",
+				"ACRES": 0.28261956,
+				"URL": "N/A",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442268,
+				"PARCELID": "UNKNOWN173",
+				"OWNERNME1": "",
+				"PSTLADDRESS": "",
+				"PSTLCITY": "",
+				"PSTLSTATE": "",
+				"PSTLZIP5": "",
+				"ACRES": 0.01186006,
+				"URL": "N/A",
+				"HOMESTEAD": "No"
+			}
+		},
+		{
+			"attributes": {
+				"OBJECTID": 113442270,
+				"PARCELID": "001-14843-006",
+				"OWNERNME1": "WEUM, RICHARD DEAN & KRYSTINE",
+				"PSTLADDRESS": "19859 NEILLS BLUFF RD",
+				"PSTLCITY": "SPRINGDALE",
+				"PSTLSTATE": "AR",
+				"PSTLZIP5": "72764",
+				"ACRES": 7.98300677,
+				"URL": "https://maps.fayetteville-ar.gov/predirect.html?rpid=21444",
+				"HOMESTEAD": "Yes"
+			}
+		}
+	]
+}
